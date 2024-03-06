@@ -1,3 +1,3 @@
 # GIVI
-მოცემული დავალება...
+givi kutibashvili
 Change text

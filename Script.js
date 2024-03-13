@@ -55,3 +55,63 @@ console.log (m>n)*/
 //გამოაცხადეთ ცვლადი studentName და მიანიჭეთ მნიშვნელობად თქვენი სახელი. 
 //დაბეჭდეთ “Rise and shine, “თქვენი სახელი” !” 
 //( მაგ თუ სახელი არის Irakli  უნდა დაიბეჭდოს Rise and shine, Irakli ! ) 
+
+/*
+function sum (a,b){
+    return a+b
+}
+function namravli (a,b){
+    return a*b
+}
+let a=2, b=5;
+if (a>b){
+    console.log (sum (a,b))
+}
+else{
+}
+
+let a = 87, b = 65
+console.log(a + b);
+
+let student = {
+    Firstname: "Givi",
+    Lastname: "kutibashvili",
+    Age: 31,
+    Marks:50,
+    Email: "Givi1kutibashvili@example.com," }
+
+console.log (student.Firstname);
+
+let m=45,n=23 
+    if (m>n){
+    console.log (m+n)
+    }
+else {
+console.log (n) 
+};
+
+let studentname = ("Givi")
+console.log ("Rise and Shine", Studantname, "!");
+
+let bonus, sallary = 1000;
+if (sallary >=2000){
+    bonus=0
+}
+else {
+    bonus=2000*10/100
+} 
+console.log (bonus);
+
+let a=23,b=a/2,c=a+b
+console.log(c)
+
+let phones = ["iphone", "Samsung", "Pixel", "Huawei", "Xiaome"]
+console.log(phones);
+
+phones.push("Motorolla"),
+console.log (phones);
+
+let i=1;
+for(i; i<=12; i++){
+console.log (i)
+}*/
